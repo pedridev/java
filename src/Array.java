@@ -16,9 +16,9 @@ public class Array {
         salarios [4] = 100.00;
 
         // iteração array
-        for(int posicao = 0; posicao <salarios.length; posicao++){
-            System.out.println(salarios[posicao]);
-        }
+//        for(int posicao = 0; posicao <salarios.length; posicao++){
+//            System.out.println(salarios[posicao]);
+//        }
         for (double salario : salarios){
             System.out.println(salario);
         }
