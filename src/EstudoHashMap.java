@@ -18,6 +18,5 @@ public class EstudoHashMap {
             double valorNota = nota.getValue();
             System.out.println(nome + " : " + valorNota);
         }
-
     }
 }
